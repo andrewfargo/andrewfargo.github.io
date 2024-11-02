@@ -1,3 +1,0 @@
-#+TITLE: Sitemap for project Research
-
-- [[file:test1.org][Test Project 1]]

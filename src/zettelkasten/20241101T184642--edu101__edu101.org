@@ -1,0 +1,12 @@
+#+title:      EDU101
+#+date:       [2024-11-01 Fri 18:46]
+#+filetags:   :edu101:
+#+identifier: 20241101T184642
+
+* Education in a Pluralistic Society
+
+Taken Fall 2024 at Grinnell College.
+Taught by Professor Paul Hutchison.
+
+Discusses systemic opression in schools and critical pedagogy.
+Read Paulo Freire, David Labaree, Cornel West, Annette Lareau, etc.

@@ -9,9 +9,9 @@
 (setq dfargo-header "<div class=\"header\">
 <a href=\"/\">dfargo.com</a>
 <a href=\"%s\">(up)</a>
-<a href=\"/pages/Research/sitemap.html\">Research</a>
-<a href=\"/pages/Monologues/sitemap.html\">Monologues</a>
-<a href=\"/pages/Files/sitemap.html\">Files</a>
+<a href=\"/pages/research/sitemap.html\">Research</a>
+<a href=\"/pages/monologues/sitemap.html\">Monologues</a>
+<a href=\"/pages/zettelkasten/sitemap.html\">Zettelkasten</a>
 <p>(c) 2024, Andrew N. Fargo</p>
 </div>")
 
@@ -31,8 +31,9 @@
 	 :html-head ,dfargo-stylesheet))
 
 (setq org-publish-project-alist
-      `(("dfargo.com" :components ("Research" "Monologues" "Files"))
-	,(dfargo-getcomponent "Research")
-	,(dfargo-getcomponent "Monologues")
-	,(dfargo-getcomponent "Files")))
-		 :
+      `(("dfargo.com" :components ("research" "monologues" "zettelkasten"))
+	,(dfargo-getcomponent "research")
+	,(dfargo-getcomponent "monologues")
+	,(dfargo-getcomponent "zettelkasten")))
+(setq denote-directory (get-repo-file "/src/zettelkasten"))
+(setq denote-prompts '(title keywords signature))
