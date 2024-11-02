@@ -36,4 +36,4 @@
 	,(dfargo-getcomponent "monologues")
 	,(dfargo-getcomponent "zettelkasten")))
 (setq denote-directory (get-repo-file "/src/zettelkasten"))
-(setq denote-prompts '(title keywords signature))
+(setq denote-prompts '(title keywords))

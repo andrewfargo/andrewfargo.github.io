@@ -1,0 +1,11 @@
+#+title:      Primitive Root
+#+date:       [2024-11-02 Sat 13:39]
+#+filetags:   :mat218:
+#+identifier: 20241102T133946
+
+* Primitive Root
+
+An element $a\in U_n$ (the set of units of $Z_n$) is a primitive root if
+it is a generator of the rest of $U_n$ when exponentiated.
+
+It is proven that they exist for all $n = p^k, 2p^k$ where $p$ is prime.

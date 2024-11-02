@@ -1,0 +1,9 @@
+#+title:      Divides
+#+date:       [2024-11-02 Sat 13:23]
+#+filetags:   :mat218:
+#+identifier: 20241102T132322
+
+* The relation 'Divides'
+
+For $a,b\in\mathbb{Z}$, $a\ne 0$, $a$ divides $b$ if there exists an integer $x$ such that
+$ax = b$. Often denoted $a\mid b$.

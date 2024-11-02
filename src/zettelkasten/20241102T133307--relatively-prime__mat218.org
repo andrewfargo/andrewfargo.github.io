@@ -1,0 +1,8 @@
+#+title:      Relatively Prime
+#+date:       [2024-11-02 Sat 13:33]
+#+filetags:   :mat218:
+#+identifier: 20241102T133307
+
+* Relatively Prime
+
+Two integers are relatively prime (coprime) if their [[denote:20241102T133227][Greatest Common Divisor]] is one.

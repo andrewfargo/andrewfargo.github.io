@@ -1,0 +1,6 @@
+#+title:      Least Common Multiple
+#+date:       [2024-11-02 Sat 13:33]
+#+filetags:   :mat218:
+#+identifier: 20241102T133345
+
+The least common multiple between $a$ and $b$ is the least positive element in the set $M_a \cap M_b$.

@@ -1,0 +1,8 @@
+#+title:      Permutation
+#+date:       [2024-11-02 Sat 13:46]
+#+filetags:   :mat218:
+#+identifier: 20241102T134626
+
+* Permutation
+
+Given a finite set $S$, a bijective map $f: S\rightarrow S$ is a permutation on $S$.

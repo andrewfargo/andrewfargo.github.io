@@ -1,0 +1,8 @@
+#+title:      Units in Z_n
+#+date:       [2024-11-02 Sat 13:39]
+#+filetags:   :mat218:
+#+identifier: 20241102T133902
+
+* Units in $Z_n$
+
+An element $a\in Z_n$ is a unit if and only if $\mathrm{gcd}(a, n) = 1$.

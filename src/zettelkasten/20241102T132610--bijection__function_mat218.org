@@ -1,0 +1,9 @@
+#+title:      Bijection
+#+date:       [2024-11-02 Sat 13:26]
+#+filetags:   :function:mat218:
+#+identifier: 20241102T132610
+
+* Bijection
+
+A function is a bijection if it is both a [[denote:20241102T132642][Surjection]] and an [[denote:20241102T132700][Injection]].
+

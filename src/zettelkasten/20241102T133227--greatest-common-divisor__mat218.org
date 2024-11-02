@@ -1,0 +1,8 @@
+#+title:      Greatest Common Divisor
+#+date:       [2024-11-02 Sat 13:32]
+#+filetags:   :mat218:
+#+identifier: 20241102T133227
+
+* Greatest Common Divisor
+
+The greatest common divisor between two numbers $a$ and $b$ is the greatest integer $c$ such that $c$ divides both $a$ and $b$.

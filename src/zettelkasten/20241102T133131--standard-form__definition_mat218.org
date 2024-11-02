@@ -1,0 +1,8 @@
+#+title:      Standard Form
+#+date:       [2024-11-02 Sat 13:31]
+#+filetags:   :definition:mat218:
+#+identifier: 20241102T133131
+
+* Standard Form
+
+$n$'s divisors are in standard form when it is written as the power of primes in ascending order.
