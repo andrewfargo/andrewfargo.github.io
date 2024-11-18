@@ -1,0 +1,21 @@
+#+title:      Properties of Legendre Symbol
+#+date:       [2024-11-18 Mon 13:36]
+#+filetags:   :mat218:
+#+identifier: 20241118T133600
+
+* Properties of Legendre Symbol
+
+1. Multiplicativity
+   \[(a/p)(b/p) \rightarrow (ab/p)\]
+2. Euler's Criterion
+   \[(a/p)=a^{(p-1)/2}\]
+3. Modular Equivalence
+   \[a\equiv b \pmod{p} \rightarrow (a/p)=(b/p)\]
+4. Quadratic Reciprocity
+   \[(p/q)(q/p) = (-1)^{\frac{p-1}{2}\cdot\frac{q-1}{2}}\]
+5. $a = -1$
+   \[(-1/p) = (-1)^{\frac{p-1}{2}}\]
+6. $a = 2$
+   \[(2/p) = (-1)^{\frac{p^2-1}{2}}\]
+7. $a = x^2$
+   \[p\nmid x \leftrightarrow (x^2/p) = 1\]

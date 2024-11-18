@@ -1,0 +1,13 @@
+#+title:      Ring
+#+date:       [2024-11-02 Sat 13:54]
+#+filetags:   :mat218:
+#+identifier: 20241102T135416
+
+* Ring
+
+A ring is a set equipped with two operators, addition and multiplication.
+The ring must be an [[denote:20241102T135935][Abelian Group]] with its addition operator, and multiplication
+must be associative, distribute over addition, and have an identity element.
+
+The set of integers with standard notions of addition and multiplication form a ring,
+though that ring is actually commutative. (wrt multiplication)
