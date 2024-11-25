@@ -1,5 +1,7 @@
 #+TITLE: Sitemap for project zettelkasten
 
+- [[file:20241125T165157--links__website.org][Links]]
+- [[file:20241125T164940--bio__website.org][Bio]]
 - [[file:20241118T134648--modular-order__mat218.org][Modular Order]]
 - [[file:20241118T133600--properties-of-legendre-symbol__mat218.org][Properties of Legendre Symbol]]
 - [[file:20241118T133148--quadratic-residues__mat218.org][Quadratic Residues]]

@@ -1,0 +1,13 @@
+#+title:      Bio
+#+date:       [2024-11-25 Mon 16:49]
+#+filetags:   :website:
+#+identifier: 20241125T164940
+
+* Biography
+
+Hello! This is a bit of stand-in page while I get everything else settled.
+For now, here is my LinkedIn Bio:
+
+Hi! I'm a student at Grinnell College studying computer science, math, and linguistics. I have a particular passion for computational linguistics, Linux, and PL. I love looking into the unexpected genius in implementation and design behind our everyday technology.
+
+Currently, I spend my time teaching what I know at iD tech, learning about the kernel, and (trying) to make crosswords. For those who are curious, I think Emacs is the better text editor. ;-)
