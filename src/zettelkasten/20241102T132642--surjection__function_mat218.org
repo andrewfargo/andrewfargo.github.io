@@ -1,9 +1,0 @@
-#+title:      Surjection
-#+date:       [2024-11-02 Sat 13:26]
-#+filetags:   :function:mat218:
-#+identifier: 20241102T132642
-
-* Surjection
-
-A function $f: S\rightarrow T$ is surjective (onto)
-if, for every $t\in T$ there exists an $s\in S$ such that $f(s) = t$.

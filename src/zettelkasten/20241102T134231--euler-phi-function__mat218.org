@@ -1,8 +1,0 @@
-#+title:      Euler Phi Function
-#+date:       [2024-11-02 Sat 13:42]
-#+filetags:   :mat218:
-#+identifier: 20241102T134231
-
-* Euler Phi Function
-
-$\phi: \mathbb{Z}\rightarrow \mathbb{N}$ is defined as the function $\phi(n)$ equal to the number of [[denote:20241102T133754][Unit Elements]] in $Z_n$.

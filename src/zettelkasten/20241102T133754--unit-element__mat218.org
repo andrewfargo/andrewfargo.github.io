@@ -1,8 +1,0 @@
-#+title:      Unit Element
-#+date:       [2024-11-02 Sat 13:37]
-#+filetags:   :mat218:
-#+identifier: 20241102T133754
-
-* Unit Element
-
-An element in a ring $R$, $a$, is a unit if there exists $b\in R$ such that $a\cdot b = 1$.

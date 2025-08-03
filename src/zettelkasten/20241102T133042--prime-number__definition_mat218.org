@@ -1,8 +1,0 @@
-#+title:      Prime Number
-#+date:       [2024-11-02 Sat 13:30]
-#+filetags:   :definition:mat218:
-#+identifier: 20241102T133042
-
-* Prime Number
-
-A number in $\mathbb{Z}$ is prime if the only positive divisors of that number are one and itself.

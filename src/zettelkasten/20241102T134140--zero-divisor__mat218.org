@@ -1,8 +1,0 @@
-#+title:      Zero Divisor
-#+date:       [2024-11-02 Sat 13:41]
-#+filetags:   :mat218:
-#+identifier: 20241102T134140
-
-* Zero Divisor
-
-An element $a\in Z_n$ is a zero divisor if there exists a non-zero $b\in Z_n$ where $ab \equiv 0\pmod{n}$

@@ -1,0 +1,43 @@
+/* home page specific styles */
+
+hgroup {
+    border-width: 1px;
+    border-style: solid;
+    border-color: midnightblue;
+    background-color: white;
+    color: black;
+    margin: 2em;
+}
+
+hgroup > * {
+    margin: 0;
+    padding-left: 0.5em;
+}
+
+hgroup > h2 {
+    background-color: midnightblue;
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+header > img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+
+header > p {
+    
+}
+
+main {
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    width: 100vh;
+}

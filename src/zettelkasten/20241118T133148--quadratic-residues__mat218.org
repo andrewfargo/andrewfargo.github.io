@@ -1,9 +1,0 @@
-#+title:      Quadratic Residues
-#+date:       [2024-11-18 Mon 13:31]
-#+filetags:   :mat218:
-#+identifier: 20241118T133148
-
-* Quadratic Residues
-
-An integer is a *quadratic residue* mod $p$ if there exists an
-$x\in\mathbb{Z}_p$ such that $a \equiv x^2 \pmod{p}$.

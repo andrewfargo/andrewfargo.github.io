@@ -1,9 +1,0 @@
-#+title:      Field
-#+date:       [2024-11-02 Sat 14:01]
-#+filetags:   :mat218:
-#+identifier: 20241102T140112
-
-* Field
-
-A field is a commutative [[denote:20241102T135416][Ring]] where $0\ne 1$ and all non-zero elements are invertible under multiplication.
-The rationals and reals are examples of fields.

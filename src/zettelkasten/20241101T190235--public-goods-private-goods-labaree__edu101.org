@@ -1,9 +1,0 @@
-#+title:      Public Goods, Private Goods (Labaree)
-#+date:       [2024-11-01 Fri 19:02]
-#+filetags:   :edu101:
-#+identifier: 20241101T190235
-
-* Public Goods, Private Goods
-
-An essay by David Labaree.
-Outlines the history of American Educational goals.
