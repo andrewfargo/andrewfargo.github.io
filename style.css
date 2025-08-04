@@ -10,6 +10,10 @@ html body {
 	font-size: 18px;
 }
 
+a {
+	color: midnightblue;
+}
+
 /* header styles */
 
 nav {
@@ -32,9 +36,12 @@ nav > p {
 	color: white;
 }
 
-a {
-	color: midnightblue;
+/* address styles */
+
+address {
+    padding: 1em
 }
+
 
 
 
