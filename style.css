@@ -7,7 +7,7 @@ html body {
 	background-color: gainsboro;
 	color: black;
 	border-color: midnightblue;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 a {
@@ -16,21 +16,21 @@ a {
 
 /* header styles */
 
-nav {
+body > nav {
 	background-color: midnightblue;
 	overflow: hidden;
 	margin: 0;
 	padding: 0;
 }
 
-nav > a {
+body > nav > a {
 	display: block;
 	float: left;
 	color: white;
 	padding-right: 1em;
 }
 
-nav > p {
+body > nav > p {
 	display: block;
 	float: right;
 	color: white;
