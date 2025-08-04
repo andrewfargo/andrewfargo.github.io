@@ -7,7 +7,7 @@ html body {
 	background-color: gainsboro;
 	color: black;
 	border-color: midnightblue;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 a {
@@ -27,7 +27,7 @@ body > nav > a {
 	display: block;
 	float: left;
 	color: white;
-	padding-right: 1em;
+	padding-left: 1em;
 }
 
 body > nav > p {
@@ -43,12 +43,41 @@ address {
 }
 
 
+aside {
+    margin: 1em;
+    float: left;
+    width: 30vh;
+    max-width: 100%;
+}
 
+main {
+    margin: auto;
+    clear: none;
+    width: 100vh;
+    max-width: 100%;
+}
 
+/* if on mobile, don't collide the navigation */
+@media screen and (max-width: 1000px) {
+  main {
+      clear: left;
+  }
+}
 
+article {
+    border-width: 1px;
+    border-style: solid;
+    border-color: midnightblue;
+    background-color: white;
+    color: black;
+    margin: 2em;
+    padding: 1em;
+}
 
+article > ul {
+    padding-left: 1.5em;
+}
 
-
-
-
-
+figure > img {
+    width: 300px;
+}

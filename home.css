@@ -1,33 +1,7 @@
 /* home page specific styles */
 
-article {
-    border-width: 1px;
-    border-style: solid;
-    border-color: midnightblue;
-    background-color: white;
-    color: black;
-    margin: 2em;
-}
-
-article > * {
-    padding-left: 0.5em;
-}
-
-article > h2 {
-    margin:0;
-    background-color: midnightblue;
-    color: white;
-}
-
-article > ul {
-    padding-left: 1.5em;
-}
-
-figure > img {
-    width: 300px;
-}
-
 header {
+    margin-top: 10vh;
     text-align: center;
 }
 
@@ -43,12 +17,8 @@ header > p {
 }
 
 html body {
-    max-width: 100%;
-    width: 100vh;
     margin-left: auto;
     margin-right: auto;
 }
 
-main {
-    margin-top: 10vh;
-}
+
