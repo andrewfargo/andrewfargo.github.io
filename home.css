@@ -1,6 +1,6 @@
 /* home page specific styles */
 
-hgroup {
+article {
     border-width: 1px;
     border-style: solid;
     border-color: midnightblue;
@@ -9,17 +9,17 @@ hgroup {
     margin: 2em;
 }
 
-hgroup > * {
-    margin: 0;
+article > * {
     padding-left: 0.5em;
 }
 
-hgroup > h2 {
+article > h2 {
+    margin:0;
     background-color: midnightblue;
     color: white;
 }
 
-hgroup > ul {
+article > ul {
     padding-left: 1.5em;
 }
 
