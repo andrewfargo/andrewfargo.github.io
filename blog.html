@@ -2,17 +2,19 @@
 <html>
   <head>
     <title>Andrew Fargo's Blog</title>
-    <link rel="stylesheet" href="./style.css">
-    <link rel="stylesheet" href="./home.css">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/home.css">
 </head>
   <body>
     <nav>
-      <a href="./index.html">Home</a>
-      <a href="./blog.html">Blog</a>
-      <a href="./research.html">Research</a>
+      <a href="#content">(content)</a>
+      <a href="/index.html">Home</a>
+      <a href="/blog.html">Blog</a>
+      <a href="/research.html">Research</a>
+      <a href="/rss.xml" type="text/xml">RSS</a>
     </nav>
     <header>
-      <img src="./images/Apple Pie Portrait.jpg" alt="A portrait of Andrew holding an apple pie.">
+      <img src="/media/Apple Pie Portrait.jpg" alt="A portrait of Andrew holding an apple pie.">
       <h1>Blog Home</h1>
     </header>
     <aside>
@@ -29,10 +31,14 @@
     </aside>
     <main>
     <article>
-      <h2>Posts</h2>
+      <h2 id="content">Posts</h2>
+      <a href="/rss.xml" type="text/xml">RSS Feed (XML)</a>
       <ul>
-	<li><a href="./pages/websitelooks.html">Why does your website look like that?</a></li>
-      </ul>
+	<li>
+	  <a href="/pages/websitelooks.html">Why does your website look like that?</a>
+	Uploaded: <time datetime="2025-08-04 13:54">Sun, 04 Aug 2025 13:54 CDT</time>
+	<i>My site looks like it was made in the mid-oughts. But why?</i>
+	</li>
     </article>
     </main>
 </body>

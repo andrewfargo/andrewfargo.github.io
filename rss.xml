@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="0.91">
+  <channel>
+    <title>Andrew's Blog</title>
+    <link>https://www.dfargo.com/blog.html</link>
+    <description>Interesting finds and thoughts</description>
+    <language>en-us</language>
+    <item>
+      <title>Why <em>does</em> your website look like that?</title>
+      <category>meta</category>
+      <link>https://www.dfargo.com/pages/websitelooks.html</link>
+      <description>My site looks like it was made in the mid-oughts. But why?</description>
+    </item>
+  </channel>
+</rss>
