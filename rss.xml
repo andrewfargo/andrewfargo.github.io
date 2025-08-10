@@ -8,9 +8,17 @@
     <item>
       <link>https://www.dfargo.com/pages/websitelooks.html</link>
       <title>Keeping a simple site</title>
-      <pubDate>Sun, 04 Aug 2025 13:54 CDT</pubDate>
+      <pubDate>Sun, 03 Aug 2025 13:54 CDT</pubDate>
       <author>fargodre@grinnell.edu (Andrew Fargo)</author>
       <description>My site looks like it was made in the mid-oughts. But why?</description>
+      <category>meta</category>
+    </item>
+    <item>
+      <link>https://www.dfargo.com/pages/rsslaunch.html</link>
+      <title>RSS for my blog</title>
+      <pubDate>Sun, 10 Aug 2025 13:54 CDT</pubDate>
+      <author>fargodre@grinnell.edu (Andrew Fargo)</author>
+      <description>A short update: I've added RSS support for my website!</description>
       <category>meta</category>
     </item>
   </channel>
