@@ -6,10 +6,12 @@
     <description>Interesting finds and thoughts</description>
     <language>en-us</language>
     <item>
-      <title>Why <em>does</em> your website look like that?</title>
-      <category>meta</category>
       <link>https://www.dfargo.com/pages/websitelooks.html</link>
+      <title>Keeping a simple site</title>
+      <pubDate>Sun, 04 Aug 2025 13:54 CDT</pubDate>
+      <author>fargodre@grinnell.edu (Andrew Fargo)</author>
       <description>My site looks like it was made in the mid-oughts. But why?</description>
+      <category>meta</category>
     </item>
   </channel>
 </rss>
