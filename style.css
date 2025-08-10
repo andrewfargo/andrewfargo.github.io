@@ -1,16 +1,28 @@
 /* document styles */
 
 html body {
-	padding: 0;
-	margin: 0;
 	font-family: "Georgia", "New Century Schoolbook", serif;
 	background-color: gainsboro;
 	color: black;
-	border-color: midnightblue;
 	font-size: 18px;
 }
 
+a {
+	color: midnightblue;
+}
 
-img {
+/* header styles */
+
+article {
+    border-width: 1px;
+    border-style: solid;
+    border-color: midnightblue;
+    background-color: white;
+    color: black;
+    margin: 2em;
+    padding: 1em;
+}
+
+figure > img {
     width: 300px;
 }
