@@ -11,6 +11,7 @@
 	<title><xsl:value-of select="rss:title"/></title>
 	<meta name="description" content="{rss:description}"/>
 	<meta name="keywords" content="blog,mathematics,linguistics,computers"/>
+	<link rel="stylesheet" href="/stylesheet/style.css"/>
       </head>
       <body>
 	<xi:include href="header.page.xml" parse="xml"/>

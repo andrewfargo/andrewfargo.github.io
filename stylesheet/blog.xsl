@@ -9,7 +9,7 @@
     <html lang="en">
       <head>
 	<xsl:apply-templates select="rss:item" mode="head"/>
-	<link rel="stylesheet" href="style.css"/>
+	<link rel="stylesheet" href="/stylesheet/style.css"/>
       </head>
       <body>
 	<xi:include href="header.page.xml" parse="xml"/>

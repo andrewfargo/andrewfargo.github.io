@@ -5,7 +5,7 @@
      xmlns:rss="https://www.rssboard.org/rss-specification"
      xs:schemaLocation="https://www.dfargo/com/ns/swl /schema/swl.xsd">
   <rss:item>
-    <rss:link>https://www.dfargo.com/page/websitelooks.html</rss:link>
+    <rss:link>https://www.dfargo.com/page/websitelooks/post.html</rss:link>
     <rss:title>Keeping a simple site</rss:title>
     <rss:pubDate>Sun, 03 Aug 2025 13:54 CDT</rss:pubDate>
     <rss:author>fargodre@grinnell.edu (Andrew Fargo)</rss:author>
