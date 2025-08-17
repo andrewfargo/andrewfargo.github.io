@@ -7,6 +7,10 @@ html body {
 	font-size: 18px;
 }
 
+nav > a {
+    padding-left: 1em;
+}
+
 a {
 	color: midnightblue;
 }
