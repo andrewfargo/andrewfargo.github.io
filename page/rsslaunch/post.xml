@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 
-<swl
- xmlns="https://www.dfargo.com/ns/swl"
+<swl:swl
+ xmlns="http://www.w3.org/1999/xhtml"
+ xmlns:swl="https://www.dfargo.com/ns/swl"
  xmlns:rss="https://www.rssboard.org/rss-specification">
 
   <rss:item>
@@ -13,7 +14,7 @@
     <rss:category>meta</rss:category>
   </rss:item>
 
-  <article xmlns="http://www.w3.org/1999/xhtml">
+  <article>
     <p>Hi all, just a short update tonight.</p>
     
     <p>
@@ -45,4 +46,4 @@
       That's all, goodnight!
     </p>
     </article>
-</swl>
+</swl:swl>

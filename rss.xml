@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ISO-8859-1'?><rss version='0.91' xmlns='https://www.rssboard.org/rss-specification'><channel> <title>Andrew's Blog</title>
 <link>https://www.dfargo.com/blog.html</link>
 <description>Interesting finds and thoughts</description>
-<language>en-us</language>  <rss:item xmlns="https://www.dfargo.com/ns/swl" xmlns:rss="https://www.rssboard.org/rss-specification">
+<language>en-us</language>  <rss:item xmlns="http://www.w3.org/1999/xhtml" xmlns:swl="https://www.dfargo.com/ns/swl" xmlns:rss="https://www.rssboard.org/rss-specification">
     <rss:link>https://www.dfargo.com/page/rsslaunch/post.html</rss:link>
     <rss:title>RSS for my blog</rss:title>
     <rss:pubDate>Sun, 10 Aug 2025 13:54 CDT</rss:pubDate>
@@ -14,5 +14,12 @@
     <rss:pubDate>Sun, 03 Aug 2025 13:54 CDT</rss:pubDate>
     <rss:author>fargodre@grinnell.edu (Andrew Fargo)</rss:author>
     <rss:description>My site looks like it was made in the mid-oughts. But why?</rss:description>
+    <rss:category>meta</rss:category>
+  </rss:item>  <rss:item xmlns="http://www.w3.org/1999/xhtml" xmlns:swl="https://www.dfargo.com/ns/swl" xmlns:rss="https://www.rssboard.org/rss-specification">
+    <rss:link>https://www.dfargo.com/page/xmlized/post.html</rss:link>
+    <rss:title>XML in your website for fun and (not so much) profit</rss:title>
+    <rss:pubDate>Sat, 16 Aug 2025 23:44 EDT</rss:pubDate>
+    <rss:author>fargodre@grinnell.edu (Andrew Fargo)</rss:author>
+    <rss:description>A brief introduction to XML and how I've utilized it for this blog.</rss:description>
     <rss:category>meta</rss:category>
   </rss:item> </channel></rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+<swl:swl xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:swl="https://www.dfargo.com/ns/swl"
+    xmlns:rss="https://www.rssboard.org/rss-specification">
+  <rss:item>
+    <rss:link>https://www.dfargo.com/page/xmlized/post.html</rss:link>
+    <rss:title>XML in your website for fun and (not so much) profit</rss:title>
+    <rss:pubDate>Sat, 16 Aug 2025 23:44 EDT</rss:pubDate>
+    <rss:author>fargodre@grinnell.edu (Andrew Fargo)</rss:author>
+    <rss:description>A brief introduction to XML and how I've utilized it for this blog.</rss:description>
+    <rss:category>meta</rss:category>
+  </rss:item>
+
+  <article>
+    <h2>Page in progress!</h2>
+
+    <p>This page is a work-in-progress.</p>
+
+    <p>I'm currently travelling at the MOL18 conference in New York.
+    This page will be a long-form post that's worth the time (I don't have) to properly research,
+    but I found the update too exciting not to post</p>
+
+    <p>For now, enjoy some ramblings until I can revisit this!</p>
+    
+    <hr/>
+    
+    <h2>Introduction</h2>
+    <h2>A brief history of XML</h2>
+
+    <h2>How I've used XML in this website</h2>
+
+    <p>The motivating factor for the use of XML in my website is
+    boilerplate formatting. As described <a href="https://www.dfargo.com/page/rsslaunch/post.html">my previous blog post,</a> the introduction of RSS and the speculation of post categories made the hard-coded creation of these posts difficult. By creating an XML Schema, I've limited the input content to only the article and meta-data such as the title, description, and publication date.</p>
+
+    <p>I call this Schema the simple weblogging language (SWL). It's nothing really special: the root element <code>swl</code> (in namespace <code>https://www.dfargo.com/ns/swl</code>)
+    contains an <code>item</code> element from the RSS namespace and an <code>article</code>
+    node from the XHTML namespace.</p>
+
+    <p>Using these two elements, I can apply XSLT stylesheets such as <a href="/stylesheet/blog.xsl">the one for this page</a> using the site's Makefile to generate formatted XHTML output.</p>
+
+    <p>Besides the clear advantage of cutting down on maintenance, the use of XML (specifically with XSLT stylesheets) allows me to use XInclude elements, or embedded documents without the need of spotty browser support for XHTML/XLinks.</p>
+    
+    <h2>Laments and future directions</h2>
+
+    <h2>Sources</h2>
+  </article>
+</swl:swl>
