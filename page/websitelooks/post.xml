@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<swl:swl xmlns="http://www.w3.org/1999/xhtml"
+     xmlns:swl="https://www.dfargo.com/ns/swl"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:rss="https://www.rssboard.org/rss-specification"
+     xs:schemaLocation="https://www.dfargo/com/ns/swl /schema/swl.xsd">
+  <rss:item>
+    <rss:link>https://www.dfargo.com/page/websitelooks.html</rss:link>
+    <rss:title>Keeping a simple site</rss:title>
+    <rss:pubDate>Sun, 03 Aug 2025 13:54 CDT</rss:pubDate>
+    <rss:author>fargodre@grinnell.edu (Andrew Fargo)</rss:author>
+    <rss:description>My site looks like it was made in the mid-oughts. But why?</rss:description>
+    <rss:category>meta</rss:category>
+  </rss:item>
+  <article>
+    <p>
+      As I&apos;m rebuilding this site, I feel its worth answering this question for
+      myself and for those who are curious. I think it comes down to a few reasons:
+      accessibility, ease of writing, and
+      preference. I&apos;ll try my best to explain what I mean.
+    </p>
+  
+    <h2>Accessibility</h2>
+    
+    <p>
+      I&apos;ll preface this section by saying I&apos;m not, by any metric,
+      an expert in accessibility.
+      <em>It is important that we all be mindful of accessibility.</em>
+      Folks smarter than me
+      have demonstrated time and again that accessibility, in addition to making systems
+      remotely tolerable for some, benefits everybody.
+    </p>
+    
+    <p>
+      I&apos;m working on a separate, better researched post about web accessibility.
+      In the meantime, it suffices to say that concise, machine-readable HTML is
+      the most feasible way for me to keep this site accessible.
+    </p>
+    
+    <h2>Ease of writing</h2>
+    
+    <p>
+      Secondly, I write pages like this by hand.
+      I&apos;ve used tools like jekyll, org-publish, and tex4ht
+      in the past for writing blog posts, but I find that it&apos;s just too difficult or
+      inconsistent for my purposes. I much prefer having control over
+      the page&apos;s markup.
+    </p>
+      
+    <p>
+      Thus, for a similar reason to accessibility, keeping the HTML simple
+      and semantic is one of the only feasible ways to do this.
+      I don&apos;t want to hand-write fifty divs, or copy and paste
+      templates to that effect.
+    </p>
+    
+    <p>
+      A nice benefit of hand-writing these pages is stability.
+      It reminds me of when you visit an old BBC page and you&apos;re teleported back to the 2000s;
+      as long as the filepaths stay the same,
+      this page can sit unchanged.
+    </p>
+    
+    <h2>Preference</h2>
+    
+    <p>
+      Finally, I&apos;m just a fan of the late 90s early 00s look.
+      It harkens to a time when you didn&apos;t need a mega-corporation in order to make
+      a page just about you. (I am hosting this on GitHub, but I&apos;ve written a webserver before
+      and want to use it in the future!)
+    </p>
+    
+    <p>
+      Nothing beats accessible, timeless simplicity, and I think that&apos;s pretty cool.
+    </p>
+  </article>
+</swl:swl>

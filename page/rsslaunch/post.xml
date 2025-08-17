@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+<swl
+ xmlns="https://www.dfargo.com/ns/swl"
+ xmlns:rss="https://www.rssboard.org/rss-specification">
+
+  <rss:item>
+    <rss:link>https://www.dfargo.com/page/rsslaunch/post.html</rss:link>
+    <rss:title>RSS for my blog</rss:title>
+    <rss:pubDate>Sun, 10 Aug 2025 13:54 CDT</rss:pubDate>
+    <rss:author>fargodre@grinnell.edu (Andrew Fargo)</rss:author>
+    <rss:description>A short update: I've added RSS support for my website!</rss:description>
+    <rss:category>meta</rss:category>
+  </rss:item>
+
+  <article xmlns="http://www.w3.org/1999/xhtml">
+    <p>Hi all, just a short update tonight.</p>
+    
+    <p>
+      I've spent the better part of the week trying to repair my old Singer machine (soon to be a post, hopefully).
+      In the meantime, I've added RSS support for this blog!
+      If you go to either <a href="/index.html">my main page</a> or <a href="/blog.html">my blog home</a>, a graphical link to the RSS feed is now present: <a href="/rss.xml"><img src="/media/rss.svg" width="18" height="18" alt="RSS"/></a>.
+    </p>
+      
+    <p>
+      I was hoping to add support for an RSS subdomain, e.g. <code>rss.dfargo.com</code> (invalid link), but had trouble getting it to work with GitHub pages. Alas.
+    </p>
+
+    <p>
+      Next I think I want to get rid of some friction with uploading posts.
+      Currently, I have to
+      <ol>
+	<li>copy over a template HTML file,</li>
+	<li>write the article,</li>
+	<li>fill out the metadata in the article text</li>
+	<li>fill out the metadata in the HTML</li>
+	<li>fill out the metadata in the RSS feed</li>
+	<li>update the <a href="/blog.html">blog home;</a></li>
+      </ol>
+      and, this is all without support for categories, for which I would also have to update regularly. My ideal solution would be converting a LaTeX document into
+      the proper HTML and RSS, as well as a tool to convert RSS to a set of navigational pages. This is in the works and I will create a blog post should I finish it.
+    </p>
+
+    <p>
+      That's all, goodnight!
+    </p>
+    </article>
+</swl>

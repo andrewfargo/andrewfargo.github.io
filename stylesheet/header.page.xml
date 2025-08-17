@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<nav>
+  <a href="#content">(Content)</a>
+  <a href="/index.html">Home</a>
+  <a href="/blog.html">Blog</a>
+  <a href="/research.html">Research</a>
+  <a href="post.xml">(Source)</a>
+</nav>
