@@ -9,7 +9,7 @@
     <rss:description>A short update: I've added RSS support for my website!</rss:description>
     <rss:category>meta</rss:category>
   </rss:item>  <rss:item xmlns="http://www.w3.org/1999/xhtml" xmlns:swl="https://www.dfargo.com/ns/swl" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:rss="https://www.rssboard.org/rss-specification">
-    <rss:link>https://www.dfargo.com/page/websitelooks.html</rss:link>
+    <rss:link>https://www.dfargo.com/page/websitelooks/post.html</rss:link>
     <rss:title>Keeping a simple site</rss:title>
     <rss:pubDate>Sun, 03 Aug 2025 13:54 CDT</rss:pubDate>
     <rss:author>fargodre@grinnell.edu (Andrew Fargo)</rss:author>
