@@ -5,26 +5,28 @@ html body {
 	background-color: gainsboro;
 	color: black;
 	font-size: 18px;
+	width: 120vh;
+	max-width: 100vw;
+	margin: auto;
 }
 
-nav > a {
-    padding-left: 1em;
+article {
+    background-color: white;
+    border-style: inset;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+dl.bold > dt {
+    font-weight: bold;
+}
+
+dl.bold > dd {
+    margin-bottom: 0.5em;
 }
 
 a {
 	color: midnightblue;
-}
-
-/* header styles */
-
-article {
-    border-width: 1px;
-    border-style: solid;
-    border-color: midnightblue;
-    background-color: white;
-    color: black;
-    margin: 2em;
-    padding: 1em;
 }
 
 img {
